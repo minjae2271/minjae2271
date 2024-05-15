@@ -1,4 +1,5 @@
 <h3 align="center">📫 Contact 📫</h3>
+<div align="center">
 <a href="https://www.linkedin.com/in/min-jae-gwon-2a091b163" target="_blank"><img src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://https://velog.io/@hobby_is_coding" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?&style=for-the-badge&logo=Velog&logoColor=white"/></a> 
 </div>
