@@ -1,6 +1,7 @@
 <a href="https://www.linkedin.com/in/min-jae-gwon-2a091b163" target="_blank"><img src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://https://velog.io/@hobby_is_coding" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?&style=for-the-badge&logo=Velog&logoColor=white"/></a> 
 <br/>
+<h1>SKILLS</h1>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
