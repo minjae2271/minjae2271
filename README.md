@@ -7,6 +7,10 @@
 <div align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<br />
+<img src="https://img.shields.io/badge/nextdotjs-000000?style=for-the-badge&logo=/nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/nodedotjs-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </div>
 <!--
 **minjae2271/minjae2271** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
