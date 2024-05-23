@@ -14,8 +14,6 @@
 <img src="https://img.shields.io/badge/nodejs-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjae2271&layout=compact)
-  
 
 
   
