@@ -14,8 +14,7 @@
 <img src="https://img.shields.io/badge/vuejs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/nodejs-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </div>
-<h3 align="center">🏖 algorithm 🏖</h3>
-![Leetcode Stats](https://leetcard.jacoblin.cool/minjae2271?theme=dark)
+
 
 
 
