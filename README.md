@@ -15,7 +15,10 @@
 <img src="https://img.shields.io/badge/nodejs-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </div>
 <h3>algorithm</h3>
-![](https://leetcard.jacoblin.cool/minjae2271?border=0&radius=20)
+<div align="center">
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/minjae2271?theme=dark)
+</div>
+
 
 
 
