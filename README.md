@@ -13,9 +13,10 @@
 <img src="https://img.shields.io/badge/vuejs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/nodejs-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </div>
-<div align="center>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjae2271&layout=compact)
-</div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjae2271&layout=compact)
+  
+
 
   
 <!--
