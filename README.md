@@ -14,11 +14,6 @@
 <img src="https://img.shields.io/badge/vuejs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/nodejs-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </div>
-
-halo
-
-
-
   
 <!--
 **minjae2271/minjae2271** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
